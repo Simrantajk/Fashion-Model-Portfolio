@@ -1,6 +1,3 @@
-Here's a simple README for your Fashion Model Portfolio project:
-
----
 
 # **Fashion Model Portfolio**
 
